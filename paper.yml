@@ -9,6 +9,9 @@
 # Wiki: https://paper.readthedocs.org/ 
 # Paper Forums: https://aquifermc.org/ 
 
+# OPTIMIZED BY NOVATION HOSTING
+# Buy Hosting in https://novationhosting.com
+
 verbose: false
 config-version: 13
 settings:
@@ -174,3 +177,6 @@ world-settings:
     auto-save-interval: 100
 remove-invalid-statistics: false
 max-auto-save-chunks-per-tick: 8
+
+# OPTIMIZED BY NOVATION HOSTING
+# Buy Hosting in https://novationhosting.com
