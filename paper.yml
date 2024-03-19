@@ -126,7 +126,7 @@ world-settings:
     non-player-arrow-despawn-rate: -1
     prevent-tnt-from-moving-in-water: false
     anti-xray:
-      enabled: true
+      enabled: false
       engine-mode: 1
       chunk-edge-mode: 1
       max-chunk-section-index: 3
