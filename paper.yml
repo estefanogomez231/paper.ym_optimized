@@ -25,7 +25,7 @@ chunk-loading-advanced:
 chunk-loading-basic:
   player-max-chunk-generate-rate: -1.0
   player-max-chunk-load-rate: 80.0
-  player-max-chunk-send-rate: 50.0
+  player-max-chunk-send-rate: 60.0
 chunk-system:
   gen-parallelism: default
   io-threads: -1
@@ -79,8 +79,8 @@ misc:
 packet-limiter:
   all-packets:
     action: KICK
-    interval: 5.0
-    max-packet-rate: 400
+    interval: 6.0
+    max-packet-rate: 420
   kick-message: <red><lang:disconnect.exceeded_packet_rate>
   overrides:
     ServerboundPlaceRecipePacket:
